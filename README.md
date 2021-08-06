@@ -26,10 +26,10 @@ Docente: Jossue Emmanuel Fuentes
 ```
 
 <h2>📚Índice📚</h2>
-<h3>1. Portada</h3>
-<h3>2. Anteportada</h3>
-<h3>3. Índice</h3>
-<h3>4. Glosario de etiquetas</h3>
+<h3>1. Portada &#9763;&#65039;</h3>
+<h3>2. Anteportada &#9762;&#65039;</h3>
+<h3>3. Índice &#9874;&#65039;</h3>
+<h3>4. Glosario de etiquetas  &#9876;&#65039;</h3>
 <p> El glosario de etiquetas se divide por 2 partes las cuales son la home-page y el glosario de todas las etiquetas</p>
 
 <h4>1. 📖La home-page 📖:</h4>
@@ -42,8 +42,8 @@ Docente: Jossue Emmanuel Fuentes
 * Contenido HTML🖍: Al momento de entrar en el glosario de etiquetas se podran ver varios titulos pero en especifico una seccion de html donde se muestran todas las etiquetas que hay con su perspectiva definicion con un breve ejemplo del mismo para tener una mejor idea de como poder utilizarla en una estructura base.
 * Contenido CSS ✂:A continuación se mostrara tambien una seccion donde se puede ver que se divide por solamente CSS donde de igual forma demuestra su forma de uso resaltando que todo css es la magía de este lenguaje de codigo porque es lo que le da vida a lo que escribimos, dandole colores, formas, posiciones, tamaños y espacios.
 
-<h3>5. Objetivos</h3>
-<h3>6. Objetivos futuros</h3>
+<h3>5. Objetivos &#9879;&#65039;</h3>
+<h3>6. Objetivos futuros &#9889;</h3>
 
 <h2>🛩Objetivos 🛩</h2>
 
