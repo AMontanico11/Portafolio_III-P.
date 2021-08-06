@@ -25,14 +25,14 @@ Institución: Santa Catalina Laboure
 Docente: Jossue Emmanuel Fuentes
 ```
 
-<h2>Índice📚</h2>
+<h2>📚Índice📚</h2>
 <h3>1. Portada</h3>
 <h3>2. Anteportada</h3>
 <h3>3. Índice</h3>
 <h3>4. Glosario de etiquetas</h3>
 <p> El glosario de etiquetas se divide por 2 partes las cuales son la home-page y el glosario de todas las etiquetas</p>
 
-<h4>1. La home-page 📖:</h4>
+<h4>1. 📖La home-page 📖:</h4>
 
 * El home-page contiene la bienbenida para el usuario con el inicio de una imagen con diversos botones que los dos superiores dirigen hacia el glosario y al inicio donde nos encontramos y un boton en el medio donde se encuentra el boton que nos dirige al star-up donde se encuentra mi perfil donde se ven diferentes proyectos elaborados a lo largo del año del curso que podria interesales, de diversos temas, tanto teoria de sistemas e instalación de software, practicas de Java y practicas de HTML y CSS.
 
@@ -45,7 +45,7 @@ Docente: Jossue Emmanuel Fuentes
 <h3>5. Objetivos</h3>
 <h3>6. Objetivos futuros</h3>
 
-<h2>Objetivos 🛩</h2>
+<h2>🛩Objetivos 🛩</h2>
 
 * Poder lograr a entender mucho mejor los lenguajes de programación que tenemos para poder hacer mejores trabajos hasta sobresalir en las mismas materias.📘
 
@@ -53,7 +53,7 @@ Docente: Jossue Emmanuel Fuentes
 
 * Poder estudiar mejor y lograr a participar mas en las clases o con mis compañeros para poder seguir avanzando en cantidades grandes.🎙
 
-<h2>Objetivos futuros 🚀</h2>
+<h2>🚀Objetivos futuros 🚀</h2>
 
 * Seguir mejorando en mi forma de programar para realizar mejores trabajos con mayor eficiencia de tiempo y menor cantidad de código.⌨
 
@@ -61,4 +61,4 @@ Docente: Jossue Emmanuel Fuentes
 
 * Poder ver en corto plazo donde poder aplicar lo que uno aprende con esta carrera o ver que trabajos pueden aplicar este estilo de paginas para facilitar el desempeño de negocios diferentes.👓
 
-<h2>Proyecto:</h2> https://amontanico11.github.io/Portafolio_III-P./ 
+<h2> &#9728;&#65039;Proyecto: &#9732;&#65039;</h2> &#9749; https://amontanico11.github.io/Portafolio_III-P./ 
