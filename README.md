@@ -2,7 +2,7 @@
 
 <h1>&#127919; Portafolio III Periodo 2021 &#127919;</h1>
 
-<img width=100% height=900px src=https://revo300.academy/wp-content/uploads/2019/12/blur-close-up-code-computer-546819-1080x675.jpg>
+<img width=100% height=700px src=https://revo300.academy/wp-content/uploads/2019/12/blur-close-up-code-computer-546819-1080x675.jpg>
 
 <h2>👨‍💻Anteportada👨‍🎓</h2>
 
@@ -16,7 +16,7 @@ Materia: Laboratorio 1
 ```
 Grado/ carrera: 4to bachillerato en computación
 ```
-   <img align=”center” width=1000px height=350px src=https://c4.wallpaperflare.com/wallpaper/162/894/557/neon-keyboards-computer-pc-gaming-wallpaper-preview.jpg>
+   <img align=”center” width=1000px height=100% src=https://c4.wallpaperflare.com/wallpaper/162/894/557/neon-keyboards-computer-pc-gaming-wallpaper-preview.jpg>
 
 ```
 Institución: Santa Catalina Laboure  
