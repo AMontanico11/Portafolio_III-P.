@@ -25,8 +25,9 @@ Institución: Santa Catalina Laboure
 Docente: Jossue Emmanuel Fuentes
 ```
 ```
-Proyecto: https://amontanico11.github.io/Portafolio_III-P./
+Proyecto:  https://amontanico11.github.io/Portafolio_III-P./
 ```
+https://amontanico11.github.io/Portafolio_III-P./ 
 <h2>Índice📚</h2>
 <h3>1. Portada</h3>
 <h3>2. Anteportada</h3>
