@@ -2,7 +2,7 @@
 
 <h1>&#127919; Portafolio III Periodo 2021 &#127919;</h1>
 
-<img width=100% height=700px src=https://revo300.academy/wp-content/uploads/2019/12/blur-close-up-code-computer-546819-1080x675.jpg>
+<img width=100% height=500px src=https://revo300.academy/wp-content/uploads/2019/12/blur-close-up-code-computer-546819-1080x675.jpg>
 
 <h2>👨‍💻Anteportada👨‍🎓</h2>
 
