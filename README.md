@@ -24,7 +24,6 @@ Institución: Santa Catalina Laboure
 ```
 Docente: Jossue Emmanuel Fuentes
 ```
-# Proyecto: https://amontanico11.github.io/Portafolio_III-P./ 
 
 <h2>Índice📚</h2>
 <h3>1. Portada</h3>
@@ -61,3 +60,5 @@ Docente: Jossue Emmanuel Fuentes
 * En un futuro cercano poder tener la oportunidad de programar paginas con lo que aprendi en este tiempo para poder demostrar lo que aprendi a mi manera.📲
 
 * Poder ver en corto plazo donde poder aplicar lo que uno aprende con esta carrera o ver que trabajos pueden aplicar este estilo de paginas para facilitar el desempeño de negocios diferentes.👓
+
+<h2>Proyecto:</h2> https://amontanico11.github.io/Portafolio_III-P./ 
